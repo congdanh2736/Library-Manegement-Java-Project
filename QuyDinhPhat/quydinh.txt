@@ -1,0 +1,20 @@
+QD8161,Lam hong sach,Boi thuong theo gia tri sach + phi xu ly,50000
+QD2098,Mat sach,Boi thuong toan bo gia tri sach + phi quan ly,100000
+QD3720,Cham tra sach,Boi thuong phi tre han,20000
+QD4512,Viet ve sach,Boi thuong theo gia tri sach + phi xu ly,60000
+QD5834,Rach trang sach,Boi thuong theo gia tri sach + phi xu ly,55000
+QD6941,Mat the thu vien,Boi thuong phi lam the moi,30000
+QD7289,Khong tra sach,Boi thuong toan bo gia tri sach + phi quan ly,120000
+QD8123,Lam uot sach,Boi thuong theo gia tri sach + phi xu ly,70000
+QD9456,Tra sach khong dung han,Boi thuong phi tre han,15000
+QD1023,Mat dia CD,Boi thuong toan bo gia tri dia + phi xu ly,80000
+QD1187,Lam hong bia sach,Boi thuong theo gia tri sach + phi xu ly,45000
+QD1349,Mat tap chi,Boi thuong toan bo gia tri tap chi + phi quan ly,65000
+QD1562,Tra lai sach sai dau sach,Boi thuong phi xu ly,25000
+QD1784,Lam ban sach,Boi thuong theo gia tri sach + phi xu ly,40000
+QD1920,Mat sach tham khao,Boi thuong toan bo gia tri sach + phi quan ly,150000
+QD2045,Khong tra dung noi quy,Boi thuong phi xu ly,35000
+QD2231,Lam nhieu sach,Boi thuong theo gia tri sach + phi xu ly,50000
+QD2456,Mat sach hiem,Boi thuong toan bo gia tri sach + phi quan ly,200000
+QD2678,Tra lai sach bi thieu trang,Boi thuong theo gia tri sach + phi xu ly,60000
+QD2890,Mat sach giao trinh,Boi thuong toan bo gia tri sach + phi quan ly,180000

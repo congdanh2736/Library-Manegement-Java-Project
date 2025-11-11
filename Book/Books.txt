@@ -1,0 +1,43 @@
+1,S7682,Bai tap Toan 11,Sach bai tap,TG4401,2001,NXB2000,Con,50000,600,575,Toan,11
+2,S5905,Tu dien Tieng Nga,Tu dien,TG1067,2000,NXB7088,Con,100000,300,300,Tra cuu,Viet - Nga,1
+1,S4228,Sach giao khoa Tieng Anh 6,Sach giao khoa,TG6623,1999,NXB1111,Con,60000,700,676,Tieng Anh,6
+1,S6493,Bai tap Toan 11,Sach bai tap,TG4401,2001,NXB2000,Con,50000,200,200,Toan,11
+2,S7965,Tu dien Nga-Viet,Tu dien,TG7734,1999,NXB1666,Con,170000,70,69,Tra cuu,Nga-Viet,1
+1,S8043,Bai tap Ngu van 7,Sach bai tap,TG2496,2001,NXB3044,Con,50000,600,590,Ngu van,7
+1,S7832,Sach giao khoa Hoa hoc 9,Sach giao khoa,TG2223,2001,NXB2033,Con,65000,500,480,Hoa hoc,9
+2,S7998,Tu dien Viet-Hoa,Tu dien,TG1067,2000,NXB1999,Con,145000,85,84,Tra cuu,Viet-Hoa,1
+1,S8076,Sach giao khoa Sinh hoc 10,Sach giao khoa,TG5122,2000,NXB6077,Con,75000,600,598,Sinh hoc,10
+1,S7810,Sach giao khoa Toan 10,Sach giao khoa,TG3508,2002,NXB8151,Con,60000,500,480,Toan,10
+2,S7943,Tu dien Nhat-Viet,Tu dien,TG5512,2001,NXB1444,Con,150000,80,79,Tra cuu,Nhat-Viet,1
+1,S8054,Sach giao khoa Lich su 8,Sach giao khoa,TG2223,2003,NXB4055,Con,55000,350,348,Lich su,8
+1,S8021,Bai tap Vat ly 11,Sach bai tap,TG4390,2004,NXB1022,Con,55000,400,395,Vat ly,11
+2,S7921,Tu dien Phap-Viet,Tu dien,TG3299,2000,NXB1222,Con,130000,100,98,Tra cuu,Phap-Viet,1
+1,S7865,Bai tap Dia ly 6,Sach bai tap,TG6233,2000,NXB5066,Con,40000,250,245,Dia ly,6
+1,S8087,Bai tap Tieng Anh 8,Sach bai tap,TG6233,2004,NXB7088,Con,50000,500,498,Tieng Anh,8
+2,S7954,Tu dien Han-Viet,Tu dien,TG6623,2002,NXB1555,Con,160000,90,88,Tra cuu,Han-Viet,1
+1,S7898,Sach giao khoa Cong nghe 8,Sach giao khoa,TG9566,2005,NXB8099,Con,60000,300,298,Cong nghe,8
+1,S8032,Sach giao khoa Hoa hoc 10,Sach giao khoa,TG3508,2002,NXB2033,Con,70000,450,445,Hoa hoc,10
+2,S7910,Tu dien Anh-Viet,Tu dien,TG2188,1998,NXB1111,Con,120000,150,145,Tra cuu,Anh-Viet,1
+1,S7843,Bai tap Ngu van 8,Sach bai tap,TG4110,2003,NXB3044,Con,45000,600,590,Ngu van,8
+1,S7909,Bai tap GDCD 10,Sach bai tap,TG1077,2001,NXB9100,Con,45000,200,198,GDCD,10
+1,S7876,Sach giao khoa Sinh hoc 11,Sach giao khoa,TG7344,2006,NXB6077,Con,70000,450,440,Sinh hoc,11
+2,S7976,Tu dien Viet-Anh,Tu dien,TG8845,2004,NXB1777,Con,125000,110,108,Tra cuu,Viet-Anh,1
+1,S7854,Sach giao khoa Lich su 7,Sach giao khoa,TG5122,2004,NXB4055,Con,50000,350,340,Lich su,7
+2,S7987,Tu dien Viet-Phap,Tu dien,TG9956,2005,NXB1888,Con,135000,95,93,Tra cuu,Viet-Phap,1
+1,S7821,Bai tap Vat ly 12,Sach bai tap,TG2496,2005,NXB1022,Con,55000,300,290,Vat ly,12
+1,S8065,Bai tap Dia ly 9,Sach bai tap,TG4110,2005,NXB5066,Con,45000,250,248,Dia ly,9
+2,S7932,Tu dien Hoa-Viet,Tu dien,TG4401,2003,NXB1333,Con,140000,120,118,Tra cuu,Hoa-Viet,1
+1,S8098,Sach giao khoa Cong nghe 9,Sach giao khoa,TG7344,2006,NXB8099,Con,60000,300,299,Cong nghe,9
+1,S8010,Sach giao khoa Toan 12,Sach giao khoa,TG3289,2006,NXB8151,Con,65000,500,490,Toan,12
+2,S8009,Tu dien Viet-Nhat,Tu dien,TG2178,2003,NXB2000,Con,155000,75,74,Tra cuu,Viet-Nhat,1
+1,S7887,Bai tap Tieng Anh 9,Sach bai tap,TG8455,2002,NXB7088,Con,50000,500,495,Tieng Anh,9
+1,S8109,Bai tap GDCD 11,Sach bai tap,TG8455,2002,NXB9100,Con,45000,200,199,GDCD,11
+2,S8210,Luat Dan su Viet Nam,Sach chuyen khao,TG3508,2005,NXB8151,Con,95000,200,195,Phap luat,Dan su,23
+2,S8221,Kinh te hoc vi mo,Sach nghien cuu,TG2496,2003,NXB1022,Con,120000,150,148,Kinh te,Vi mo,24
+2,S8243,Huong dan thuc hanh Tin hoc,Sach huong dan,TG4110,2004,NXB3044,Con,80000,220,215,Tin hoc,Co ban,22
+2,S8254,Phuong phap nghien cuu khoa hoc,Sach chuyen khao,TG5122,2002,NXB4055,Con,100000,130,128,Khoa hoc,Phuong phap,24
+2,S8265,Tuyen tap Van hoc Viet Nam,Tuyen tap,TG6233,2000,NXB5066,Con,90000,250,245,Van hoc,Van hoc VN,25
+2,S8276,Giao trinh Xac suat thong ke,Giao trinh,TG7344,2006,NXB6077,Con,115000,170,168,Toan,Xac suat,21
+2,S8287,Nghien cuu Sinh hoc hien dai,Sach nghien cuu,TG8455,2003,NXB7088,Con,105000,140,138,Sinh hoc,Sinh hoc PT,23
+2,S8298,Huong dan thuc hanh Hoa hoc,Sach huong dan,TG9566,2005,NXB8099,Con,95000,200,198,Hoa hoc,Thuc hanh,22
+2,S8309,Phan tich Tac pham Van hoc,Sach chuyen khao,TG1077,2001,NXB9100,Con,85000,160,158,Van hoc,Phan tich,25
